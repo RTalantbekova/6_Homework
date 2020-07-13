@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+    <string name="first_item">Goods</string>
+    <string name="second_item">Services</string>
+    <string name="third_item">Application</string>
+
+    <string name="hat_goods">HATS</string>
+    <string name="dress_goods">DRESSES</string>
+    <string name="bag_goods">BAGS</string>
+
+    <string name="shop_serv">ONLINE SHOP</string>
+    <string name="delv_serv">DELIVERY</string>
+    <string name="cons_serv">ONLINE CONSULTATION</string>
+
+    <string name="welcome">WELCOME</string>
+
+    <string name="about_app">App version\n\n3.6.10\n\n->Online consultation about products\n\n->Online shop sitting on sofa\n\n->Free delivery</string>
+
+
+</resources>
